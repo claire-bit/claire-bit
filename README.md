@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React, Node.js, MongoDB, Django**
 
-- 📫 How to reach me **clairemutindi@gmail.com**
+- 📫 How to reach me **clairemutindi324@gmail.com**
 
 - ⚡ Fun fact **I love building scalable apps and leading teams**
 
