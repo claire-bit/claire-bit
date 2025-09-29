@@ -2,6 +2,10 @@
 ### 🌐 Connect with me  
 
 <p align="left">
+  <a href="https://ceeportfolio.netlify.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/84/84380.png" alt="Website" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/__clairem/profilecard/?igsh=Y2pmcnE5MzJpa2hk" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30" height="30"/>
   </a>
