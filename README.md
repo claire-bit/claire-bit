@@ -29,8 +29,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.threads.net/@__clairem" target="blank">
-    <img align="center" src="https://seeklogo.com/images/T/threads-logo-1D4635F462-seeklogo.com.png" alt="Threads" height="30" width="40" />
-  </a>
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/threads.svg" alt="Threads" height="30" width="40" />
+</a>
   <a href="https://www.linkedin.com/in/claire-mutindi-0b5469252" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
