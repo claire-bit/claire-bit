@@ -15,7 +15,7 @@
 
 - 👨‍💻 View my portfolio at [https://ceeportfolio.netlify.app/](https://ceeportfolio.netlify.app/)
 
-- 💬 Ask me about **React, Node.js, MongoDB, Django**
+- 💬 Ask me about **React, Node.js, MongoDB, Django, Postgres**
 
 - 📫 How to reach me **clairemutindi324@gmail.com**
 
