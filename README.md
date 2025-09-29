@@ -1,8 +1,7 @@
-```md
-## 👋 Hi, I’m Claire Mutindi  
+# 👩‍💻 Claire Mutindi  
 
-💻 Computer Scientist | Full Stack Developer | Tech Lead | Problem Solver  
-📍 Based in Nairobi  
+**Computer Scientist | Full Stack Developer | Tech Lead | Problem Solver**  
+📍 Nairobi, Kenya  
 
 ---
 
@@ -10,19 +9,19 @@
 
 <p align="center">
   <a href="https://ceeportfolio.netlify.app/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" width="30"/>
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/__clairem/profilecard/?igsh=Y2pmcnE5MzJpa2hk" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30"/>
+  <a href="https://www.instagram.com/__clairem" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.threads.net/@__clairem" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/threads.png" alt="Threads" width="30"/>
+    <img src="https://img.shields.io/badge/Threads-%23000000.svg?&style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/claire-mutindi-0b5469252" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-```
+
+---
+
+✨ *Passionate about building scalable apps, solving problems, and leading teams in tech.*
